@@ -10,3 +10,11 @@ button {
   margin: 10px;
   cursor: pointer;
 }
+
+#app {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 20px;
+}
